@@ -6,19 +6,19 @@ import NewExpense from "./components/NewExpense/NewExpense";
 const initial_expenses = [
   {
     id:'e1',
-    title: "toilet paper",
+    title: "Cake",
     amount: 7.45,
     date: new Date(2023, 1, 5),
   },
   {
     id:'e2',
-    title: "chicken",
+    title: "Chicken",
     amount: 18,
     date: new Date(2023, 2, 4),
   },
   {
     id:'e3',
-    title: "milk",
+    title: "Milk",
     amount: 7.45,
     date: new Date(2022, 2, 1),
   },
